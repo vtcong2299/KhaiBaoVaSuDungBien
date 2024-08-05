@@ -2,7 +2,7 @@
 
 
 
-namespace HIENTHITHOIGIANTHUC
+namespace KhaiBaoVaSuDungBien
 {
     class Program 
     {
